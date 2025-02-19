@@ -9,7 +9,7 @@ Recorded at iconic, bustling locations such as Piazza Castello and Via Roma in T
 ![](./images/7.jpeg)
 
 <p align="center">
-  <strong>This is not and AI generated image</strong>
+  This is not an AI generated image
 </p>
 ## Data Acquisition & System Details
 
