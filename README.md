@@ -11,7 +11,9 @@ Recorded at iconic, bustling locations such as Piazza Castello and Via Roma in T
 <p align="center">
   This is not an AI generated image
 </p>
-## Data Acquisition & System Details
+
+
+<strong> Data Acquisition & System Details <strong>
 
 ### Recording Sessions
 Our dataset comprises four distinct recordings with a combined duration of approximately **1626 seconds**. The details of each session are as follows:
