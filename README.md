@@ -7,6 +7,10 @@ SAND is a comprehensive multimodal dataset designed to advance socially-aware ro
 Recorded at iconic, bustling locations such as Piazza Castello and Via Roma in Turin, Italy, SAND encompasses a rich variety of data. This includes raw LiDAR point clouds, SLAM-generated maps and odometry, and supplementary sensor streams that together offer a detailed representation of human-robot interactions. The dataset is tailored for researchers in robotics, autonomous navigation, and social robotics, providing a robust resource to benchmark and develop socially aware navigation algorithms.
 
 ![](./images/7.jpeg)
+
+<p align="center">
+  <strong>This is not and AI generated image</strong>
+</p>
 ## Data Acquisition & System Details
 
 ### Recording Sessions
