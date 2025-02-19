@@ -7,13 +7,7 @@ SAND is a comprehensive multimodal dataset designed to advance socially-aware ro
 Recorded at iconic, bustling locations such as Piazza Castello and Via Roma in Turin, Italy, SAND encompasses a rich variety of data. This includes raw LiDAR point clouds, SLAM-generated maps and odometry, and supplementary sensor streams that together offer a detailed representation of human-robot interactions. The dataset is tailored for researchers in robotics, autonomous navigation, and social robotics, providing a robust resource to benchmark and develop socially aware navigation algorithms.
 
 ![](./images/7.jpeg)
-
-<p align="center">
-  This is not an AI generated image
-</p>
-
-
-## Data Acquisition & System Details 
+## Data Acquisition & System Details
 
 ### Recording Sessions
 Our dataset comprises four distinct recordings with a combined duration of approximately **1626 seconds**. The details of each session are as follows:
@@ -43,7 +37,7 @@ Our dataset comprises four distinct recordings with a combined duration of appro
   - **Location:** Piazza Castello and Via Alberto
 
 ### Sensor Suite & System Specifications
-
+note that this is not the final versian, and specifications of the dataset will improve. check the end of this file for possible future updates.
 - **Robot Platform:**
   - The recordings were performed using the **Unitree Go1** quadruped robot, known for its agile locomotion and robust performance.
   - More details about the robot can be found on the [Unitree Go1 Product Page](https://shop.unitree.com/products/unitreeyushutechnologydog-artificial-intelligence-companion-bionic-companion-intelligent-robot-go1-quadruped-robot-dog?srsltid=AfmBOoolAkfvPyK6gfOl0G2-_ozL7nvVu82R6AjaPywBH2e7_77nCqFN).
@@ -103,3 +97,13 @@ This section presents sample visualizations that showcase the raw point cloud da
   - ![Point Cloud Frame 3](./images/5.png)
 
 
+### Planned Sensor Enhancements
+
+In the final version of the dataset, we will expand the sensor suite to further enrich the data captured. Planned additions include:
+
+- **Environmental Telemetry:** Sensors for temperature, humidity, and light conditions.
+- **High-Precision GPS:** For accurate location tracking.
+- **Microphone Recording:** Capturing audio context.
+- **Semantic Segmentation on RGB Data:** For detailed environmental understanding.
+- **Full Robot Odometry Data:** Provided by our proprietary SLAM system.
+- **High-Frequency Human Pose Data:** Derived from proprietary human detection algorithms (40Hz refresh) for full skeletal tracking.
