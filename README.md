@@ -34,7 +34,7 @@ Our dataset comprises four distinct recordings with a combined duration of appro
   - **Size:** 38.3 GiB
   - **Duration:** 686 seconds
   - **Messages:** 13724 messages
-  - **Location:** Piazza Castello and Via Alberto
+  - **Location:** Piazza Castello and Via Carlo Alberto
 
 ### Sensor Suite & System Specifications
 note that this is not the final versian, and specifications of the dataset will improve. check the end of this file for possible future updates.
